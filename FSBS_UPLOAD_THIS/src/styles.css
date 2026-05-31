@@ -114,6 +114,19 @@ button {
   transform: rotate(-1deg) translateY(-2px);
 }
 
+.footer-link {
+  color: #7852c6;
+  text-decoration: underline;
+  text-decoration-color: rgba(120, 82, 198, 0.35);
+  text-underline-offset: 4px;
+  transition: color 180ms ease, text-decoration-color 180ms ease;
+}
+
+.footer-link:hover {
+  color: #5f35aa;
+  text-decoration-color: #5f35aa;
+}
+
 .cloud-button {
   background: #8052d6;
   border: 2px solid #5d32aa;
