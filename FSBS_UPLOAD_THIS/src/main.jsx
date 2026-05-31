@@ -442,7 +442,10 @@ function App() {
       <footer className="border-t-2 border-[#e6c9a8] px-5 py-10 sm:px-8">
         <div className="mx-auto flex max-w-7xl flex-col gap-4 font-bold text-ink/70 sm:flex-row sm:items-center sm:justify-between">
           <p className="marker-title text-3xl text-ink">FSBS</p>
-          <p>Built for students who want studying to feel rewarding.</p>
+          <div className="flex flex-col gap-2 sm:items-end">
+            <p>Built for students who want studying to feel rewarding.</p>
+            <a className="footer-link" href="mailto:Support@fsbslanding.com">Support@fsbslanding.com</a>
+          </div>
         </div>
       </footer>
     </main>
