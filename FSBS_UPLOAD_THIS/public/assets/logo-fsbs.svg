@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 82" fill="none">
+  <rect x="4" y="5" width="74" height="72" rx="34" fill="#FFFDF3" stroke="#241915" stroke-width="4"/>
+  <circle cx="38" cy="43" r="9" fill="#241915"/>
+  <circle cx="25" cy="27" r="6" fill="#241915"/>
+  <circle cx="38" cy="22" r="6" fill="#241915"/>
+  <circle cx="52" cy="27" r="6" fill="#241915"/>
+  <circle cx="60" cy="40" r="5.5" fill="#241915"/>
+  <path d="M92 50c8 6 20 8 32 2" stroke="#CFAE96" stroke-width="7" stroke-linecap="round"/>
+  <text x="96" y="53" fill="#241915" font-family="Comic Sans MS, Trebuchet MS, sans-serif" font-size="40" font-weight="900">FSBS</text>
+</svg>
