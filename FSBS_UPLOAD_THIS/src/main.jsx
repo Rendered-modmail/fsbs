@@ -377,6 +377,7 @@ function App() {
                   <Bot className="h-5 w-5" />
                   Android beta coming soon!
                 </span>
+                <span>{signupCount} total waitlist signups so far</span>
               </div>
             </div>
           </div>
@@ -436,6 +437,7 @@ function App() {
           <div className="mt-8">
             <WaitlistForm compact onSignup={setSignupCount} />
           </div>
+          <p className="mt-5 font-black text-purple-700">{signupCount} total waitlist signups so far</p>
         </div>
       </section>
 
